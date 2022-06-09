@@ -3,6 +3,10 @@
 
 编写语言：火山PC + exui界面库
 
+火山PC http://www.voldp.com/voldev.html
+
+火山exui界面库 https://www.iexui.com/downhsexui
+
 API服务：https://github.com/Binaryify/NeteaseCloudMusicApi
 
 安卓客户端未实现，服务端和客户端未完善
