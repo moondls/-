@@ -11,6 +11,6 @@ API服务：https://github.com/Binaryify/NeteaseCloudMusicApi
 
 安卓客户端未实现，服务端和客户端未完善
 
-使用说明：修改服务端 NeteaseCloudMusic.v 类下 音乐变量.API 地址未你的API地址
+使用说明：修改服务端 NeteaseCloudMusic.v 类下 音乐变量.API 地址未你的API地址（暂不可更改）
 
 更新中...
